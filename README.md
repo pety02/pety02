@@ -1,3 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.tenor.com/bmI8NqhrsfkAAAAC/programming-java.gif" width="100"/>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/petya-licheva/">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue"></img>
+  </a>
+</div>
+
 ### Hi there 👋
 
 <!--
