@@ -25,8 +25,8 @@
 <div>
   <h2> Experience </h2>
   <ul>
-    <li> Almost 3 years non-proffesional experirnce with programming with Java </li>
-    <li> 1 year non-proffesional experirnce with programming with C++ and C# </li>
+    <li> Almost 3 years non-proffesional experirnce in programming with Java </li>
+    <li> 1 year non-proffesional experirnce in programming with C++ and C# </li>
     <li> Knowledge in basic Web design with HTML, CSS, BootStrap </li>
     <li> Good knowledge in Object Oriented Principles (OOP) </li>
     <li> Basic knowledge in some design patterns as MVC, MVVP, Factory </li>
