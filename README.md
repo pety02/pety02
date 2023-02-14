@@ -41,6 +41,7 @@
     <li> Docker </li>
     <li> MongoDB / Firebase </li>
     <li> JUnit </li>
+    <li> Kotlin </li>
     <li> Other programming technologies </li>
   </ul>
 </div>
