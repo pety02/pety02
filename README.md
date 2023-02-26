@@ -18,7 +18,7 @@
 <h1> 👋 Hi there, my name is Petya Licheva! </h1>
 
 <div>
-  <p> 🌱 I’m currently learning Spring Boot. </p>
+  <p> 🌱 I’m currently learning Spring Boot, Basic Programming with Swift and Basic Programming with R. </p>
   <p> 🔭 I’m currently working on Spring Boot Starter projects in oreder improving my Java skills with different technologies. </p>
 </div>
 
@@ -33,6 +33,8 @@
     <li> Basic knowledge in some programming concepts as working with Data Transfer Objects (DTO) 
     and Data Access Objects (DAO) </li>
     <li> Basic knowledge in JavaFX </li>
+    <li> Basic knowledge in Relational DataBases</li>
+    <li> One-semester in the university experience with MATLAB</li>
   </ul>
   
   <h2> Technologies that I want to learn </h2>
