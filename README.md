@@ -17,10 +17,16 @@
 
 <h1> 👋 Hi there, my name is Petya Licheva! </h1>
 
+<h2>Tech Stack:</h2> 
+
+[![Petya Licheva's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pety02&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+  
 <div>
   <p> 🌱 I’m currently learning Spring Boot, Basic Programming with Swift and Basic Programming with R. </p>
   <p> 🔭 I’m currently working on Spring Boot Starter projects in oreder improving my Java skills with different technologies. </p>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=pety02&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <div>
   <h2> Experience </h2>
