@@ -15,7 +15,8 @@
   </a>
 </div>
 
-<br>
+<h1> 👋 Hi there, my name is Petya Licheva! </h1>
+
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" style="width:160px; height:60px"></img>
   <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png" style="width:60px; height: 60px"></img>
@@ -23,12 +24,10 @@
   <img src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-document_icon-icons.com_57634.png" style="width:80px; height:90px"></img>
 </p>
 
-<h1> 👋 Hi there, my name is Petya Licheva! </h1>
-
 <h2>Tech Stack:</h2> 
 
 [![Petya Licheva's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pety02&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-  
+
 <div>
   <p> 🌱 I’m currently learning Spring Boot, Basic Programming with Swift and Basic Programming with R. </p>
   <p> 🔭 I’m currently working on Spring Boot Starter projects in oreder improving my Java skills with different technologies. </p>
