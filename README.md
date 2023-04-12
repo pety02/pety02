@@ -24,7 +24,9 @@
   <img src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-document_icon-icons.com_57634.png" style="width:80px; height:90px"></img>
 </p>
 
-<h2>Tech Stack:</h2> 
+<a>
+  <img src="https://img.shields.io/badge/Tech-Stack-blue" style="width:150px; height: 50px"></img>
+</a> 
 
 [![Petya Licheva's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pety02&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
@@ -36,7 +38,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=pety02&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <div>
-  <h2> Experience </h2>
+  <a>
+    <img src="https://img.shields.io/badge/My-Experience-orange" style="width:150px; height: 50px"></img>
+  </a> 
   <ul>
     <li> Almost 3 years non-proffesional experirnce in programming with Java </li>
     <li> 1 year non-proffesional experirnce in programming with C++ and C# </li>
@@ -50,7 +54,9 @@
     <li> One-semester in the university experience with MATLAB</li>
   </ul>
   
-  <h2> Technologies that I want to learn </h2>
+  <a>
+    <img src="https://img.shields.io/badge/Technologies-That%20I%20Am%20Interested%20In-green" style="width:360px; height:50px"></img>
+  </a>
   <ul>
     <li> Spring Boot </li>
     <li> Docker </li>
