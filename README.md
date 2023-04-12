@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/petya-licheva/">
     <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue"></img>
   </a>
-</div>  
+</div> 
 
 <div align="center">
   <a href="petya.licheva2002@abv.bg">
@@ -14,6 +14,14 @@
     <span> petya.licheva2002@abv.bg </span>
   </a>
 </div>
+
+<br>
+<p align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" style="width:160px; height:60px"></img>
+  <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png" style="width:60px; height: 60px"></img>
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="width:60px; height: 60px"></img>
+  <img src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-document_icon-icons.com_57634.png" style="width:80px; height:90px"></img>
+</p>
 
 <h1> 👋 Hi there, my name is Petya Licheva! </h1>
 
