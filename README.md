@@ -21,7 +21,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" style="width:160px; height:60px"></img>
   <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png" style="width:60px; height: 60px"></img>
   <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="width:60px; height: 60px"></img>
-  <img src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-document_icon-icons.com_57634.png" style="width:80px; height:90px"></img>
 </p>
 
 <a>
