@@ -30,7 +30,7 @@
 [![Petya Licheva's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pety02&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/pety02)
 
 <div>
-  <p> 3th year student in Sofia university 'St. Kliment Ohridski', FMI </p>
+  <p> 2nd year student in Sofia university 'St. Kliment Ohridski', FMI </p>
   <p> 🌱 I’m currently learning Spring Boot </p>
   <p> 🔭 I’m currently working on Spring Boot Starter projects in oreder improving my Java skills with different technologies </p>
 </div>
