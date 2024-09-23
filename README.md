@@ -30,9 +30,9 @@
 [![Petya Licheva's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pety02&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/pety02)
 
 <div>
-  <p> 2nd year student in Sofia university 'St. Kliment Ohridski', FMI </p>
-  <p> 🌱 I’m currently learning Spring Boot </p>
-  <p> 🔭 I’m currently working on Spring Boot Starter projects in oreder improving my Java skills with different technologies </p>
+  <p> 3rd year student in Sofia university 'St. Kliment Ohridski', FMI </p>
+  <p> 🌱 I’m currently learning Spring Boot and Kotlin </p>
+  <p> 🔭 I’m currently working on Spring Boot Starter projects in oreder improving my Java skills with different technologies. Also, I'm currently implementing a Kotlin demo project in orer to learn new programming technologies and languages and expand my tech stack.  </p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=pety02&theme=algolia&show_icons=true)](https://github.com/pety02)
@@ -42,15 +42,16 @@
     <img src="https://img.shields.io/badge/My-Experience-orange" style="width:150px; height: 50px"></img>
   </a> 
   <ul>
-    <li> 4.5 years non-proffesional experience in programming with Java </li>
-    <li> Beginner Spring Boot programmer </li>
-    <li> 2.5 years non-proffesional experience in programming with C++ </li> 
+    <li> 6 years non-proffesional experience in programming with Java </li>
+    <li> Beginner Kotlin programmer </li>
+    <li> Non-professional Spring Boot programmer </li>
+    <li> 3 years non-proffesional experience in programming with C++ </li> 
     <li> 3 years non-proffessional experience in programming with C# </li>
     <li> Programming with Swift at basic level </li>
     <li> One-semester in the university experience with MATLAB and R </li>
     <li> Knowledge in basic Web design with HTML, CSS, BootStrap </li>
     <li> Good knowledge in Object Oriented Principles (OOP) </li>
-    <li> Knowledge in some design patterns as MVC, MVVP, Factory </li>
+    <li> Knowledge in some design patterns as MVC, MVP, MVVP, Factory, Singleton, Dependancy Injection, Builder </li>
     <li> Knowledge in Relational DataBases</li>
   </ul>
   
