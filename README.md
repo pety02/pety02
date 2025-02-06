@@ -17,11 +17,7 @@
 
 <h1> 👋 Hi there, my name is Petya Licheva! </h1>
 
-<p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" style="width:160px; height:60px"></img>
-  <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png" style="width:60px; height: 60px"></img>
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="width:60px; height: 60px"></img>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,hibernate,cs,cpp,html,css,js)](https://skillicons.dev)
 
 <a>
   <img src="https://img.shields.io/badge/Tech-Stack-blue" style="width:150px; height: 50px"></img>
